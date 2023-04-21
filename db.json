@@ -13,6 +13,27 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "name": "Street Dog",
+      "age": 4,
+      "gender": "Male",
+      "place": "Kolkata",
+      "id": 3
+    },
+    {
+      "name": "Street Dog",
+      "age": 6,
+      "gender": "Female",
+      "place": "Chennai",
+      "id": 4
+    },
+    {
+      "name": "Germen Shepherd",
+      "age": 6,
+      "gender": "Male",
+      "place": "Germany",
+      "id": 5
     }
   ]
 }
